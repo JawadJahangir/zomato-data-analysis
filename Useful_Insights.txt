@@ -1,0 +1,56 @@
+ Business Insights
+ Executive Summary
+
+The analysis of restaurant data reveals that customer satisfaction is influenced by a combination of pricing, service features, and engagement (votes). While pricing plays a role, features like online ordering and customer interaction significantly impact ratings and popularity.
+
+ Key Findings
+1 Pricing vs Customer Satisfaction
+Low, medium, and high-cost restaurants show similar rating patterns
+Higher price does NOT guarantee better ratings
+
+ Insight:
+Customers value experience over price
+
+2 Customer Engagement is Critical
+Total votes: 78,384
+Restaurants with higher votes tend to have better visibility and trust
+
+ Insight:
+Popularity drives perception and success
+
+3 Online Ordering Improves Performance
+Restaurants offering online ordering have better average ratings
+
+Insight:
+Convenience is a key driver of customer satisfaction
+
+4 Table Booking Has Limited Impact
+Mixed results across restaurants
+Not a strong factor compared to online ordering
+
+Insight:
+Table booking is not a major differentiator
+
+5 Top Restaurants Combine Multiple Factors
+High rating + high votes = success
+Balance of quality + visibility
+
+Insight:
+Success comes from both quality AND customer engagement
+ Strategic Recommendations
+1. Focus on Customer Experience
+Improve food quality and service
+Encourage customer reviews
+2. Enable Online Ordering
+Essential for modern restaurant success
+3. Optimize Pricing Strategy
+Avoid assuming higher price = higher satisfaction
+4. Increase Customer Engagement
+Promotions, reviews, feedback systems
+Business Impact
+Better customer retention
+Increased visibility
+Improved revenue potential
+ Final Conclusion
+
+Restaurants that combine good service, customer engagement, and convenience features outperform others regardless of pricing level.

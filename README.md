@@ -5,7 +5,6 @@
 The restaurant industry is highly competitive, and businesses struggle to understand what drives customer satisfaction and popularity.
 This project aims to analyze restaurant data to uncover insights about pricing, ratings, customer preferences, and service features.
 
----
 
 ##  Objectives
 

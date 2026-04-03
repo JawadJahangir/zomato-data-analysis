@@ -1,88 +1,71 @@
+#  Restaurant Market Insights – Zomato Analysis (SQL + Python)
 
-# 🍽️ Zomato Data Analysis Project
+## ❓ Problem Statement
 
-## 📌 Project Overview
-
-This project focuses on analyzing the Zomato dataset to uncover meaningful insights about restaurants, customer preferences, pricing, and ratings. The analysis combines Python and SQL to perform data cleaning, exploration, and business-driven insights.
-
----
-
-## 🛠️ Tools & Technologies
-
-* **Python** (Pandas, NumPy)
-* **SQL (MySQL)**
-* **Matplotlib & Seaborn** (Data Visualization)
-* Jupyter Notebook / PyCharm
+The restaurant industry is highly competitive, and businesses struggle to understand what drives customer satisfaction and popularity.
+This project aims to analyze restaurant data to uncover insights about pricing, ratings, customer preferences, and service features.
 
 ---
 
-## 🔍 Data Cleaning & Preprocessing
+##  Objectives
 
-* Handled missing values
-* Converted data types (e.g., cost, ratings)
-* Cleaned column names into snake_case
-* Removed duplicates and inconsistent values
+* Analyze restaurant ratings and customer votes
+* Identify impact of pricing on customer satisfaction
+* Evaluate features like online ordering and table booking
+* Discover top-performing restaurants
 
----
+## Tools Used
 
-## 🧠 SQL Analysis
+* Python (Pandas, NumPy)
+* SQL (MySQL)
+* Data Visualization (Matplotlib / Seaborn)
 
-The following insights were extracted using SQL:
+## Key Analysis
 
-* Total number of restaurants
-* Average ratings across cities
-* Most popular cuisines
-* Revenue and cost-based analysis
-* Impact of online ordering and table booking
-* Top-rated and most voted restaurants
+### Restaurant Overview
 
----
+* Total restaurants analyzed: **296**
+* Total customer votes: **78,384**
 
-## 📊 Key Insights
+### Pricing vs Rating
 
-* Some cities have significantly higher restaurant density
-* Popular cuisines vary across locations
-* Higher cost does not always guarantee higher ratings
-* Restaurants with online ordering tend to receive more engagement
-* A small number of restaurants dominate customer votes
+* Restaurants categorized into:
 
----
+  * Low Cost
+  * Medium Cost
+  * High Cost
+* Average rating compared across categories
 
-## 📈 Visualization
+### Online Order Impact
 
-* Distribution of ratings
-* Cuisine popularity analysis
-* City-wise restaurant comparison
-* Cost vs rating trends
+* Compared ratings of restaurants with and without online ordering
 
----
 
-## 🚀 Skills Demonstrated
+### Table Booking Impact
 
-* Data Cleaning & Preprocessing
-* SQL Query Writing
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Business Insight Generation
+* Analyzed whether table booking improves ratings
 
----
+### Top Restaurants
 
-## 📎 How to Use
+* Identified restaurants with highest ratings and votes
 
-1. Open the notebook (`analysis.ipynb`)
-2. Run all cells step-by-step
-3. Execute SQL queries from `queries.sql` in MySQL
-4. Explore insights and visualizations
+##  Key Insights
 
----
+* Pricing does not always guarantee higher ratings
+* Customer engagement (votes) is a strong indicator of popularity
+* Restaurants offering online ordering tend to perform better
+* Table booking has mixed impact depending on restaurant type
 
-## 📌 Conclusion
 
-This project demonstrates a complete data analysis workflow — from raw data to actionable insights — using Python and SQL. It reflects practical analytical thinking and real-world problem-solving skills.
+##  Business Impact
 
----
+* Helps restaurant owners optimize pricing strategies
+* Improves decision-making for service features
+* Identifies factors driving customer satisfaction
 
-## 🙌 Author
 
-**Jawad Jahangir**
+## Conclusion
+
+This project highlights how data-driven insights can help restaurants improve customer experience, optimize pricing, and increase overall performance.
+
 
